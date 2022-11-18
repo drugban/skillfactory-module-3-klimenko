@@ -85,7 +85,7 @@ p {
 }
 
 .page__header_grey {
-    background-color: #e0e0e0;
+    background-color: #F6F2F2;
 }
 
 .page__intro_grey {
@@ -150,7 +150,6 @@ p {
 .intro {
     padding-top: 103px;
     padding-bottom: 94px;
-    background-color: #f6f2f2;
 }
 
 .intro__content {
