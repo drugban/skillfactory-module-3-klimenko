@@ -67,7 +67,7 @@ h2 {
     color: #000000;
     margin: 0;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    font-weight: 600;
+    font-weight: bold;
     font-size: 42px;
     line-height: 55px;
     text-transform: uppercase;
@@ -89,7 +89,7 @@ p {
 }
 
 .page__intro_grey {
-    background-color: #e0e0e0;
+    background-color: #F6F2F2;
 }
 
 .header__line {
